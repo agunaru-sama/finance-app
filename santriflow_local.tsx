@@ -1745,7 +1745,7 @@ export default function App() {
         <header className="flex items-center justify-between gap-2 mb-4">
           <div className="min-w-0">
             <h1 className="font-heading text-xl sm:text-2xl font-extrabold tracking-tight text-[#2D1E24] flex items-center gap-1.5">
-              <span>Assalamu&apos;alaikum, Santri!</span>
+              <span>Assalamu&apos;alaikum, Ukhti!</span>
               <CuteIcon name="sakura" className="w-5 h-5 shrink-0" />
             </h1>
             <p className="text-[11px] sm:text-xs font-medium text-[#7A5C68] flex items-center gap-1.5 mt-0.5">
